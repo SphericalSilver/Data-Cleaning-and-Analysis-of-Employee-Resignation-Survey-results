@@ -1,6 +1,6 @@
 # Data Cleaning and Analysis of Employee Resignation Survey results
 
-In this project, we were tasked with cleaning and analyzing Employee Exit Survey responses from employees of [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland) (DETE), and the [Technical and Further Education](https://en.wikipedia.org/wiki/TAFE_Queensland) (TAFE) body of the Queensland government in Australia. The DETE exit survey data can be [found here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey), and the TAFE exist survey data can be [found here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey).
+In this project, we were tasked with cleaning and analyzing Employee Exit Survey responses from employees of [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_) (DETE), and the [Technical and Further Education](https://en.wikipedia.org/wiki/TAFE_Queensland) (TAFE) body of the Queensland government in Australia. The DETE exit survey data can be [found here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey), and the TAFE exist survey data can be [found here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey).
 
 Specifically, we looked to gain answers to the following questions:
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
@@ -43,6 +43,11 @@ In contrast, those with 7 years or more of work experience reported being dissat
 - Age column was also cleaned and standardized into the same format using Regular expressions, and then categories were made to represent age, which were then used for the visualization.
 
 ![dissatisfaction by age](https://i.gyazo.com/cf3973c632c15c70cfa7fa683047d948.png)
+
+The overall trend observed based on Age groups here is somewhat similar to the outcome observed with Career Stages from above.
+
+In general, older employees seem to be more likely to resign reporting dissatisfaction. This trend is fairly consistent across all age groups, apart from the 26-30 and 31-35 age groups. This might be because older employees could have more accumulated grievances. 
+
 
 ### Employee Dissatisfaction by Institute
 
