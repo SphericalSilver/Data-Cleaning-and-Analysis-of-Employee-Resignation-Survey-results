@@ -53,5 +53,7 @@ In general, older employees seem to be more likely to resign reporting dissatisf
 
 ![dissatisfaction by institute](https://i.gyazo.com/7a97e12ac48852a5f94b818b046949ff.png)
 
-At first glance, it looks like employees in DETE are significantly more likely to report dissatisfaction. **However, this is probably because of the fact that there were more columns in the DETE table which indicated dissatisfaction.** This is the case because survey answers were recorded in different formats, even though the survey template was the same. This unequalness in how the survey responses were handled by the two institutes was one limitation of this project.
+At first glance, it looks like employees in DETE are significantly more likely to report dissatisfaction. **However, this is probably because of the fact that there were more columns in the DETE table which indicated dissatisfaction.** This is the case because survey answers were recorded in different formats, even though the survey template was the same. 
+
+This unequalness in how the survey responses were handled by the two institutes was one limitation of this project.
 
