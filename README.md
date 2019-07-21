@@ -1,0 +1,2 @@
+# Data-Cleaning-and-Analysis-of-Employee-Resignation-Survey-results
+Employee exit survey results from two institutes, Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) in Queensland, Australia, were analyzed to discover if there were notable relationships between employee dissatisfaction rates, and factors such as their Age, and how long they had been working at their respective institutes.
