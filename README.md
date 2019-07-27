@@ -48,6 +48,7 @@ The overall trend observed based on Age groups here is somewhat similar to the o
 
 In general, older employees seem to be more likely to resign reporting dissatisfaction. This trend is fairly consistent across all age groups, apart from the 26-30 and 31-35 age groups. This might be because older employees could have more accumulated grievances. 
 
+A way to address this might be to ensure that older employees were kept satisfied with their working conditions. One reason an older employee might feel disgruntled is because the nature of their job might have changed significantly from what they were used to, and they find it harder to adapt. It might be worth looking into ways to ease this process. 
 
 ### Employee Dissatisfaction by Institute
 
